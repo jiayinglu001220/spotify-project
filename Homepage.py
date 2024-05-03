@@ -5,7 +5,6 @@
 
 # In[15]:
 
-!pip install plotly
 
 import streamlit as st
 import pandas as pd
